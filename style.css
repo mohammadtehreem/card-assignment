@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  height: auto;
+  border: 2px solid;
+}
+
+.card {
+  border: 1px solid;
+  width: 24%;
+  height: auto;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin: 0 8px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.container img {
+  width: 100%;
+}
+
+h3,
+p {
+  text-align: center;
+}
